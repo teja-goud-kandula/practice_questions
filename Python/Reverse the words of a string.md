@@ -7,7 +7,7 @@ alpha beta gamma
 Output:
 gamma beta alpha
 
-```
+```python
 def words_of_string_reversed(input_str):
     word = ''
     reversed_string = ''
